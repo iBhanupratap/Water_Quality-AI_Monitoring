@@ -1,5 +1,9 @@
 # 💧 Water Quality Monitoring System
 
+## Application Preview
+
+![Application Screenshot](app_screenshot.png)
+
 ## Project Overview
 
 This project uses Machine Learning to predict whether water is safe to drink based on various water quality parameters.
