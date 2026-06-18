@@ -227,3 +227,13 @@ python train_model.py
 ```bash
 streamlit run app.py
 ```
+
+## Tech Stack
+
+- Python
+- Pandas
+- Scikit-Learn
+- Joblib
+- Streamlit
+- Git
+- GitHub
