@@ -2,7 +2,7 @@
 
 ## Application Preview
 
-![Application Screenshot](app_screenshot.png)
+![Application Screenshot](wq app full fukl.png)
 
 ## Project Overview
 
