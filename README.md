@@ -1,5 +1,8 @@
 # 💧 Water Quality Monitoring System
 
+🚀 Live Demo:
+https://waterquality-aimonitoring-f4jqgubved6gb8bra9kmhc.streamlit.app/
+
 ## Application Preview
 
 ![Application Screenshot](app_screenshot.png)
