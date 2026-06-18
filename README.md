@@ -206,8 +206,8 @@ Water-Quality-AI/
 ### Clone Repository
 
 ```bash
-git clone <repository-link>
-cd Water-Quality-AI
+git clone https://github.com/iBhanupratap/Water_Quality-AI_Monitoring.git
+cd Water_Quality-AI_Monitoring
 ```
 
 ### Install Dependencies
